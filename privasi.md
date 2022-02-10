@@ -1,4 +1,4 @@
-#Kebijakan Privasi
+#Kebijakan Privasi#
 
 Dinas Komunikasi dan Informatika Kabupaten Tanah Laut (Kami) menyediakan aplikasi SIPP SIPP Kabupaten Tanah Laut sebagai aplikasi Gratis dan untuk dipergunakan sebagaimana adanya. Kebijakan Privasi ini menjelaskan bagaimana Kami mengumpulkan, menggunakan, mengungkap, dan menjaga informasi Anda saat Anda menggunakan aplikasi e-KiTA Mobile. Harap dibaca Kebijakan ini dengan cermat. Jika Anda tidak setuju dengan kebijakan privasi ini, mohon jangan akses atau gunakan aplikasi ini.
 
